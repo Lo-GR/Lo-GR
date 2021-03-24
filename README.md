@@ -9,6 +9,8 @@
 <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lo-GR&layout=compact&theme=dracula" width="44%"/>
 </div>
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
 <!--
 **Lo-GR/Lo-GR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
